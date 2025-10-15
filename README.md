@@ -18,6 +18,10 @@ Inclui exercícios de lógica de programação e manipulação de dados com **Py
 2. Execute todas as células (`Ctrl + F9` ou “Executar tudo”).  
 3. Verifique os resultados e gráficos gerados diretamente no notebook.
 
+## 🔗 Acesse o Notebook
+[👉 Abrir no Google Colab](https://colab.research.google.com/drive/SEU-LINK-AQUI)
+
+
 ## ✨ Autor
 **Luan Alcântara**  
 [GitHub](https://github.com/iam-luan)

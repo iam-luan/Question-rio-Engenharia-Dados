@@ -19,7 +19,7 @@ Inclui exercícios de lógica de programação e manipulação de dados com **Py
 3. Verifique os resultados e gráficos gerados diretamente no notebook.
 
 ## 🔗 Acesse o Notebook
-[👉 Abrir no Google Colab](https://colab.research.google.com/drive/SEU-LINK-AQUI)
+[👉 Abrir no Google Colab] (https://colab.research.google.com/drive/1O7PsgF5uGKrrQC112xfXE2zJWVnUHR8Q?authuser=2&usp=classroom_web#scrollTo=iPgEseMeg2vv)
 
 
 ## ✨ Autor
